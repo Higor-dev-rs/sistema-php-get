@@ -42,11 +42,6 @@
                     $categoria_nome = $c["nome"];
                     }
                 }
-                // echo "<strong>" . htmlspecialchars($p["nome"]) . "</strong><br>";
-                // echo "Preço: R$ " . number_format($p["preco"], 2, ',', '.') . "<br>";
-                // echo "Categoria: " . htmlspecialchars($categoria_nome) . "<br>";
-                
-                // echo "<a href='consulta.php?id=" . $p["id"] . "'>Ver produto</a>";
                 
                 echo "<hr>";
                 echo "<div class='card mb-3'>";

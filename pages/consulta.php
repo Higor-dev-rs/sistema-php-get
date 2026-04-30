@@ -29,13 +29,6 @@
                         }
                     }
 
-                    // echo "<h3>Produto</h3>";
-                    // echo "Nome: " . htmlspecialchars($p["nome"]) . " <br>";
-                    // echo "Preço: R$ " . number_format($p["preco"], 2, ',', '.') . "<br>";
-                    // echo "Categoria: " . htmlspecialchars($categoria_nome);
-                    // $encontrado = true;
-                    // break;
-
                     echo "<div class='card shadow-sm'>";
                     echo "<div class='card-body'>";
                     echo "<h3 class='card-title'>" . htmlspecialchars($p["nome"]) . "</h3>";

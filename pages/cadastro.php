@@ -10,7 +10,7 @@
 <body class ="bg-light">
     <div class ="container mt-5">
 
-        <h2 class="mb-4">Cadastro de Usuário</h2>
+        <h2 class="mb-4 text-center">Cadastro de Usuário</h2>
 
         <form method="GET" class="card p-4 shadow-sm">
             <div class="mb-3">
@@ -25,9 +25,6 @@
 
             <button class="btn btn-success">Cadastrar</button>
         </form>
-
-        <!-- <p>Use a URL:</p>
-        <code>?usuario=novo&senha=1234</code> -->
 
         <hr>
         <?php

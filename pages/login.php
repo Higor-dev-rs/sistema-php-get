@@ -16,11 +16,7 @@
             <input type="password" name="senha" placeholder="Senha" class="form-control mb-2">
             <button class="btn btn-primary">Entrar</button>
         </form>
-        <!-- <h2>Login (Via GET)</h2>
 
-        <p>Use: </p>
-        <code>?usuario=admin&senha=1234</code>
--->
         <hr> 
 
         <?php 

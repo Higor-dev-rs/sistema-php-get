@@ -16,7 +16,7 @@ $categorias = [
     ["id" => 3, "nome" => "Acessórios"]
 ];
 
-//PRODUTOS
+
 $produtos = [ 
     ["id" => 1, "nome" => "Notebook", "preco" => 3500, "categoria_id" => 2 ],
     ["id" => 2, "nome" => "Mouse", "preco" => 50, "categoria_id" => 3],
